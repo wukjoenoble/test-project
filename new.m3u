@@ -2,7 +2,7 @@
 
 #---------------------------------------------------------------------GENERAL--------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://dik.si/KrI2m" group-title="WOLD SPORTS",SKY SPORTS F1 [FHD]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA8OBB1cTD1C6vygEOpGMKijvWBqFmgEzsKA&s" group-title="Sky Sports",Sky Sports F1 [FHD]
 http://tvpanel.one:80/live/den9179/611carc/586775.m3u8
-#EXTINF:-1 tvg-logo="https://dik.si/KrI2m" group-title="WOLD SPORTS",SKY SPORTS F1 [HD]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA8OBB1cTD1C6vygEOpGMKijvWBqFmgEzsKA&s" group-title="Sky Sports",Sky Sports F1 [HD]
 http://tvpanel.one:80/live/den9179/611carc/586776.m3u8
